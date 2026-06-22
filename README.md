@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amanecer-contigo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Amanecer contigo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amanecer-contigo/) |
+| **Get License** | [Commercial Licensing for Amanecer contigo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amanecer-contigo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `77996e3430ba315f5e603ffe1e46b274ae6df6496628a78af2b1433b8fa998f6` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

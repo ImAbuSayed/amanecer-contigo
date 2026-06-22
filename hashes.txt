@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amanecer contigo
+
+This log tracks the cryptographic history and versioning for the song **Amanecer contigo** (amanecer-contigo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T07:20:15.440332 | `v1` | `77996e3430ba315f5e603ffe1e46b274ae6df6496628a78af2b1433b8fa998f6` | `b134e0037a715c16385531beb0a0bdc90ac2fd3eae252306a350deed730ee6c0` | `2026-06-22_amanecer-contigo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
