@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amanecer-contigo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Amanecer contigo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amanecer-contigo/) |
+| **Get License** | [License this song: Amanecer contigo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amanecer-contigo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero verte bailando bajo la luz de neón,
+> Siento la tensión, nena, pierdo la razón.
+> Eres mi locura, mi mayor debilidad,
+> Esta noche somos dueños de toda la ciudad.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
